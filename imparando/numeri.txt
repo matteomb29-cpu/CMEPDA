@@ -1,0 +1,1 @@
+Il numero massimo è 75, mentre il minimo è 21, la lista di 10 numeri era [23, 21, 28, 65, 57, 63, 71, 32, 33, 75]
